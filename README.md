@@ -6,7 +6,7 @@ A clean, responsive, and interactive To-Do List web app built using **HTML**, **
 
 ## 🚀 Live Demo
 
-👉(https://genesiswaye.github.io/todo-list/)  
+👉(https://genesiswaye.github.io/To-Do-List/)
 
 ---
 
